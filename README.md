@@ -1,20 +1,20 @@
-# Horror Escape Room Game 🏚️👻
+# Horror Escape Room Game 👻
 
 A thrilling text-based escape room adventure with horror and mystery elements!
 
-## 📖 Storyline
+##  Storyline
 
 You wake up in an abandoned mansion with no memory. The doors are locked, and strange symbols cover the walls. You have **10 minutes** to escape before something terrible happens.
 
 Solve puzzles, find hidden items, and uncover the mystery of the mansion!
 
-## 🎮 Game Features
+##  Game Features
 
 - **4 Challenging Rooms:**
-  - 📚 The Dusty Library (Riddles & Secrets)
-  - ⚙️ The Dark Basement (Machinery Puzzles)
-  - 👻 The Haunted Bedroom (Mirror Mysteries)
-  - ✨ The Ritual Chamber (Final Challenge)
+  -  The Dusty Library (Riddles & Secrets)
+  -  The Dark Basement (Machinery Puzzles)
+  -  The Haunted Bedroom (Mirror Mysteries)
+  -  The Ritual Chamber (Final Challenge)
 
 - **Puzzle Types:**
   - Riddles to solve
@@ -29,7 +29,7 @@ Solve puzzles, find hidden items, and uncover the mystery of the mansion!
 
 - **Replay Value** - Play again to find alternative solutions
 
-## 🚀 How to Run
+##  How to Run
 
 ### Requirements
 - Python 3.6 or higher
@@ -47,7 +47,7 @@ cd horror-escape-room
 python main.py
 ```
 
-## 🎯 How to Play
+##  How to Play
 
 1. Enter your name when prompted
 2. Read the descriptions carefully - they contain clues!
@@ -56,7 +56,7 @@ python main.py
 5. Find the 4 Power Items to escape in the Ritual Chamber
 6. Beat the clock!
 
-## 🔑 Tips for Players
+##  Tips for Players
 
 - Read every description carefully
 - Try all available options in each room
@@ -64,7 +64,7 @@ python main.py
 - Use items you find in other rooms
 - Some puzzles require thinking creatively
 
-## 📝 Game Structure
+##  Game Structure
 
 ```
 main.py
@@ -75,17 +75,17 @@ main.py
 └── Room 4: Ritual Chamber
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Language:** Python 3
 - **Type:** Text-based Adventure Game
 - **Libraries:** Built-in Python only (no external dependencies needed!)
 
-## 👤 Author
+##  Author
 
 Created as a fun escape room game inspired by Going Seventeen episodes.
 
-## 📄 License
+##  License
 
 This project is open source and free to use and modify.
 
