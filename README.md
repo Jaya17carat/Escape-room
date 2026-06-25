@@ -1,4 +1,4 @@
-# Horror Escape Room Game 👻
+#  Escape Room Game 👻
 
 A thrilling text-based escape room adventure with horror and mystery elements!
 
